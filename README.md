@@ -30,4 +30,10 @@ python manage.py runserver 127.0.0.1:8000
 
 **STEP-2:** Now open browser and goto ```127.0.0.1:8000/bigdatajob``` to interact with the search engine. *(Use credentials (testuser,test1234) to login!!)*
 
-### Thank you!!
+## Collaborators
+[Madhav Agarwal](https://github.com/mdv3101) <br>
+[Raj Kumar Maurya](https://github.com/therajmaurya) <br>
+[Kunwar Ashutosh Singh](https://github.com/kunwar97) <br>
+
+>This project was the winner of **BigWar**,a 48 hours *National Level Project Competition* organized by ABESIT, Ghaziabad during BigDataThon'17 from 7-9th April 2017.
+
