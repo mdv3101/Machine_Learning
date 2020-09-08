@@ -35,5 +35,5 @@ python manage.py runserver 127.0.0.1:8000
 [Raj Kumar Maurya](https://github.com/therajmaurya) <br>
 [Kunwar Ashutosh Singh](https://github.com/kunwar97) <br>
 
->This project was the winner of **BigWar**,a 48 hours *National Level Project Competition* organized by ABESIT, Ghaziabad during BigDataThon'17 from 7-9th April 2017.
+>This project was the winner of **BigWar**, a 48 hours *National Level Project Competition* organized by ABESIT, Ghaziabad during BigDataThon'17 from 7-9th April 2017.
 
